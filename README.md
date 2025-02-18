@@ -114,7 +114,7 @@
 <h3>Crictime</h3>
 <p><a href="https://crictimetv.com">CricTime</a> is a popular website offering free live streaming of ICC Champions Trophy 2025 matches. The platform provides multiple links, ensuring fans can watch matches on both mobile devices and computers without any charges.</p>
 <h3>Smartcric HD</h3>
-<p><a href="https://smartcrichd.com/live">Smartcric</a> allows viewers to watch live cricket matches from the ICC Champions Trophy 2025 without geographical restrictions. It offers three different streaming qualities, enabling fans to select the one that best suits their internet speed.</p>
+<p><a href="https://smartcrichd.com/live/">Smartcric</a> allows viewers to watch live cricket matches from the ICC Champions Trophy 2025 without geographical restrictions. It offers three different streaming qualities, enabling fans to select the one that best suits their internet speed.</p>
 <h3>Touchcric</h3>
 <p><a href="https://touchcrictv.com/">Touchcric</a> provides free, high-quality streaming of cricket events, including the ICC Champions Trophy 2025. Fans can stream matches directly from their mobile devices or computers, ensuring they don't miss any action.</p>
 <h3>CricHD</h3>
