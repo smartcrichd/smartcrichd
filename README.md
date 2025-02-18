@@ -1,3 +1,11 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta> Watch ICC Champions Trophy 2025 Live Streaming on Smartcric </meta>
+</head>
+<body>
 <h1>Watch ICC Champions Trophy 2025 Live Streaming on Smartcric</h1>
 <p>Get ready to watch ICC Champions Trophy 2025 live on Smartcric! Enjoy free HD cricket streaming Online</p>
 <h2><a href="https://smartcrichd.com/champions-trophy-2025/">Smartcric Live ICC Champion Trophy 2025</a></h2>
@@ -119,4 +127,5 @@
 <p><a href="https://touchcrictv.com/">Touchcric</a> provides free, high-quality streaming of cricket events, including the ICC Champions Trophy 2025. Fans can stream matches directly from their mobile devices or computers, ensuring they don't miss any action.</p>
 <h3>CricHD</h3>
 <p><a href="https://crichdtv.net/">CricHD</a> is one of the best sites that offer free live cricket streaming. Cricket fans can stream the entire Champions Trophy 2025 tournament live on CricHD for free.</p>
-    
+</body>
+</html>
