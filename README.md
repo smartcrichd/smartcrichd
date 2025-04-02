@@ -31,7 +31,7 @@
 <h2 style="margin-left:0in;"><span style="font-family:&quot;Times New Roman&quot;,serif;font-size:18.0pt;"><strong>How to Watch Live Cricket on Smartcric?</strong></span></h2>
 <p style="margin-left:0in;">&nbsp;</p>
 <h3 style="margin-left:0in;"><span style="font-family:&quot;Times New Roman&quot;,serif;font-size:13.5pt;"><strong>Step 1: Visit the Official Smartcric HD Website</strong></span></h3>
-<p style="line-height:107%;margin:0in 0in 8pt;"><span style="font-family:&quot;Times New Roman&quot;,serif;font-size:12.0pt;"><span style="line-height:107%;">To start streaming, go to the Smartcric CH website using your web browser. Make sure you have a reliable internet connection for a smooth streaming experience.</span></span></p>
+<p style="line-height:107%;margin:0in 0in 8pt;"><span style="font-family:&quot;Times New Roman&quot;,serif;font-size:12.0pt;"><span style="line-height:107%;">To start streaming, go to the <a target="_blank" rel="noopener noreferrer" href="https://smartcrichd.com/"><span style="font-family:&quot;Times New Roman&quot;,serif;font-size:12.0pt;">Smartcric ch</span></a>  website using your web browser. Make sure you have a reliable internet connection for a smooth streaming experience.</span></span></p>
 <p style="line-height:107%;margin:0in 0in 8pt;">&nbsp;</p>
 <h3 style="margin-left:0in;"><span style="font-family:&quot;Times New Roman&quot;,serif;font-size:13.5pt;"><strong>Step 2: Select the Match You Want to Watch</strong></span></h3>
 <p style="line-height:107%;margin:0in 0in 8pt;"><span style="font-family:&quot;Times New Roman&quot;,serif;font-size:12.0pt;"><span style="line-height:107%;">On the homepage, there's a list of ongoing and upcoming matches. Just click on the match you want to watch, and the stream will load right away.</span></span></p>
@@ -70,42 +70,4 @@
         <p style="line-height:normal;margin-bottom:8pt;margin-right:0in;margin-top:0in;"><span style="font-family:Calibri, sans-serif;font-size:11pt;"><span style="font-family:Symbol;font-size:12.0pt;"></span></span><span style="font-family:&quot;Times New Roman&quot;,serif;font-size:12.0pt;">Bilateral ODI and Test series</span><span style="font-family:Calibri, sans-serif;font-size:11pt;"><span style="font-family:&quot;Times New Roman&quot;,serif;font-size:12.0pt;"></span></span></p>
     </li>
 </ul>
-<p style="line-height:normal;margin:0in 0in 8pt;">&nbsp;</p>
-<h2 style="margin-left:0in;"><span style="font-family:&quot;Times New Roman&quot;,serif;font-size:18.0pt;"><strong>Best Alternatives to Touchcric for Live Cricket Streaming</strong></span></h2>
-<p style="margin-left:0in;">&nbsp;</p>
-<p style="line-height:normal;margin:0in 0in 8pt;"><span style="font-family:&quot;Times New Roman&quot;,serif;font-size:12.0pt;">Although Touchcric is a great platform, there are quite a few other dependable alternatives to live cricket streaming:</span></p>
-<h3 style="margin-left:0in;"><span style="font-family:&quot;Times New Roman&quot;,serif;font-size:12.0pt;"><strong>1. Hotstar</strong></span></h3>
-<p style="line-height:normal;margin:0in 0in 8pt;"><span style="font-family:&quot;Times New Roman&quot;,serif;font-size:12.0pt;">Hotstar (now Disney+ Hotstar) is the official streaming partner of ICC events and the IPL in several countries. It provides top-quality streaming with various camera angles.</span></p>
-<h3 style="margin-left:0in;"><span style="font-family:&quot;Times New Roman&quot;,serif;font-size:12.0pt;"><strong>2. Willow TV</strong></span></h3>
-<p style="line-height:normal;margin:0in 0in 8pt;"><span style="font-family:&quot;Times New Roman&quot;,serif;font-size:12.0pt;">For US and Canadian cricket lovers, Willow TV is a top-class option that provides official and legal live streams.</span></p>
-<h3 style="margin-left:0in;"><span style="font-family:&quot;Times New Roman&quot;,serif;font-size:12.0pt;"><strong>3. SonyLIV</strong></span></h3>
-<p style="line-height:normal;margin:0in 0in 8pt;"><span style="font-family:&quot;Times New Roman&quot;,serif;font-size:12.0pt;">SonyLIV offers live coverage of cricket matches from the Indian subcontinent, including prominent ICC tournaments and franchise leagues.</span></p>
-<h3 style="margin-left:0in;"><span style="font-family:&quot;Times New Roman&quot;,serif;font-size:12.0pt;"><strong>4. CricHD</strong></span></h3>
-<p style="line-height:normal;margin:0in 0in 8pt;"><span style="font-family:&quot;Times New Roman&quot;,serif;font-size:12.0pt;">An alternative that costs nothing, CricHD offers several live streams of different quality cricket matches.</span></p>
-<h3 style="margin-left:0in;"><span style="font-family:&quot;Times New Roman&quot;,serif;font-size:12.0pt;"><strong>5. Smartcric</strong></span></h3>
-<p style="line-height:normal;margin:0in 0in 8pt;"><span style="font-family:&quot;Times New Roman&quot;,serif;font-size:12.0pt;">A user-friendly mobile-streaming website, Smartcric is ideal for those who watch matches on smartphones.</span></p>
-<h2 style="margin-left:0in;"><span style="font-family:&quot;Times New Roman&quot;,serif;font-size:18.0pt;"><strong>Is Touchcric Safe to Use?</strong></span></h2>
-<p style="line-height:normal;margin:0in 0in 8pt;"><span style="font-family:&quot;Times New Roman&quot;,serif;font-size:12.0pt;">While Touchcric offers free live-streaming, it's crucial to understand the potential risks that come with using third-party streaming sites:</span></p>
-<ul style="padding-left:48px;">
-    <li>
-        <p style="line-height:normal;margin-bottom:0.0001pt;margin-right:0in;margin-top:0in;"><span style="font-family:Calibri, sans-serif;font-size:11pt;"><span style="font-family:Symbol;font-size:12.0pt;"></span></span><span style="font-family:&quot;Times New Roman&quot;,serif;font-size:12.0pt;"><strong>Unverified Links:</strong> Some free streaming platforms might lead users to unwanted advertisements or phishing sites.</span></p>
-    </li>
-    <li>
-        <p style="line-height:normal;margin-bottom:0.0001pt;margin-right:0in;margin-top:0in;"><span style="font-family:Calibri, sans-serif;font-size:11pt;"><span style="font-family:Symbol;font-size:12.0pt;"></span></span><span style="font-family:&quot;Times New Roman&quot;,serif;font-size:12.0pt;"><strong>Legal Concerns:</strong> Depending on your location, accessing content from unofficial sources could be illegal.</span></p>
-    </li>
-    <li>
-        <p style="line-height:normal;margin-bottom:8pt;margin-right:0in;margin-top:0in;"><span style="font-family:Calibri, sans-serif;font-size:11pt;"><span style="font-family:Symbol;font-size:12.0pt;"></span></span><span style="font-family:&quot;Times New Roman&quot;,serif;font-size:12.0pt;"><strong>Ad Overload:</strong> Many free streaming services depend heavily on advertisements, which can often be quite intrusive.</span></p>
-    </li>
-</ul>
-<p style="line-height:normal;margin:0in 0in 8pt;"><span style="font-family:&quot;Times New Roman&quot;,serif;font-size:12.0pt;">To ensure a safer streaming experience, always consider using a VPN and an ad blocker when visiting free streaming sites.</span></p>
-<p style="line-height:normal;margin:0in 0in 8pt;"><span style="font-family:Calibri, sans-serif;font-size:11pt;"><span style="font-family:&quot;Times New Roman&quot;,serif;font-size:12.0pt;"></span></span></p>
-<h2 style="margin-left:0in;margin-right:0in;"><span style="font-family:&quot;Times New Roman&quot;, serif;font-size:18pt;">How to Improve Your Cricket Streaming Experience?</span></h2>
-<p style="line-height:normal;margin:0in 0in 8pt;"><span style="font-family:&quot;Times New Roman&quot;,serif;font-size:12.0pt;">To maximize your enjoyment of Touchcric's live cricket streaming, keep these tips in mind:</span></p>
-<h3 style="margin-left:0in;"><span style="font-family:&quot;Times New Roman&quot;,serif;font-size:12.0pt;"><strong>1. Using a High-Speed Internet Connection</strong></span></h3>
-<p style="line-height:normal;margin:0in 0in 8pt;"><span style="font-family:&quot;Times New Roman&quot;,serif;font-size:12.0pt;">For HD streaming, a minimum internet speed of 5 Mb/s is recommended. If your connection is slow, consider lowering the video quality to prevent buffering.</span></p>
-<h3 style="margin-left:0in;"><span style="font-family:&quot;Times New Roman&quot;,serif;font-size:12.0pt;"><strong>2. Clear Cache and Cookies</strong></span></h3>
-<p style="line-height:normal;margin:0in 0in 8pt;"><span style="font-family:&quot;Times New Roman&quot;,serif;font-size:12.0pt;">If you encounter problems with the website, clearing your browser's cache and cookies can enhance performance.</span></p>
-<h3 style="margin-left:0in;"><span style="font-family:&quot;Times New Roman&quot;,serif;font-size:12.0pt;"><strong>3. Enable VPN for Secure Streaming</strong></span></h3>
-<p style="line-height:normal;margin:0in 0in 8pt;"><span style="font-family:&quot;Times New Roman&quot;,serif;font-size:12.0pt;">If Touchcric is restricted in your area, a VPN can help you bypass geo-restrictions and safeguard your online privacy.</span></p>
-<h3 style="margin-left:0in;"><span style="font-family:&quot;Times New Roman&quot;,serif;font-size:12.0pt;"><strong>4. Avoid Pop-Ups and Redirects</strong></span></h3>
-<p style="line-height:normal;margin:0in 0in 8pt;"><span style="font-family:&quot;Times New Roman&quot;,serif;font-size:12.0pt;">Utilize an ad-blocker to reduce pop-ups and prevent accidental clicks on unwanted advertisements.</span></p>
+
